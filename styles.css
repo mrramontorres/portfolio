@@ -5,18 +5,15 @@ main{
 }
 
 /* Website - Navigation and Navbar style */
-nav {
-    background-color:White;
-}
 
 h1.navbar-brand{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 700;
     font-size: 26px;
-    background-color:#54b3ae;
+    color:#54b3ae;
 }
 
-/* Webesite - Article style */
+/* Website - Article style */
 .container{
     margin-top: 75px;
     margin-bottom: 75px;
