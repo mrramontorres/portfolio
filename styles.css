@@ -8,9 +8,8 @@ main{
 
 h1.navbar-brand{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 700;
+    font-weight: 600;
     font-size: 26px;
-    color:#54b3ae;
 }
 
 /* Website - Article style */
@@ -19,7 +18,7 @@ h1.navbar-brand{
     margin-bottom: 75px;
     margin-left: 25px;
 }
-.col-md-8{
+.col-md-12{
     background-color: white;
     padding-bottom: 25px;
 }
@@ -29,15 +28,20 @@ h1.navbar-brand{
 h1.display-4 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 600;
-    font-size: 38px;
-    color:#54b3ae;
+    font-size: 30px;
     padding-top: 25px;
+}
+h2.display-4, a{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-size: 15px;
+    padding-top: 0px;
 }
 
 
 /* Contact Page - Button Style */
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: #54b3ae !important;
+    background-color: #000000 !important;
 }
 
 .button.btn.btn-primary{
