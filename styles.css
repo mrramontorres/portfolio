@@ -34,11 +34,13 @@ h1.display-4 {
 h2.display-4, a{
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 300;
-    font-size: 15px;
+    font-size: 20px;
     padding-top: 0px;
 }
-
-
+.single-post-content-wrapper {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
 /* Contact Page - Button Style */
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #000000 !important;
